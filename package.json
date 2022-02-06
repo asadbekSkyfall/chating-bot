@@ -1,0 +1,19 @@
+{
+  "name": "telgrafbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon test.js"
+  },
+  "keywords": [],
+  "author": "Asadbek Abduganiev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "telegraf": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
